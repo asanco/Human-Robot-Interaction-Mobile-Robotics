@@ -1,0 +1,8 @@
+Tele-operacion robot a partir de gestos/movimientos con manos y codos (uso del sensor Kinect)
+
+Ejecutar con parametro r para conectar con robot.
+"./SkeletonBasics-D2D-Aria/bin/SkeletonBasics-D2D.exe" r
+
+Ejecutar con parametro s para conectar con simulador
+"./SkeletonBasics-D2D-Aria/bin/SkeletonBasics-D2D.exe" s
+
